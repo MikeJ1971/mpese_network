@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gml:graphml xmlns:gml="http://graphml.graphdrawing.org/xmlns">
+    <gml:key id="d0" for="node" attr.name="type" attr.type="string"/>
     <gml:graph edgedefault="undirected">
-        <key id="d0" for="node" attr.name="type" attr.type="string"/>
         <gml:node id="MilitaryOath1639v1.xml">
             <gml:data key="d0">text</gml:data>
         </gml:node>
